@@ -126,3 +126,5 @@ El desarrollo demuestra que es posible democratizar el entrenamiento de Intelige
 A efectos de salvaguardar la autoría intelectual del proyecto, el código se encuentra protegido bajo un Contrato de Licencia de Usuario Final (EULA) de carácter Propietario y No Comercial. El autor se reserva el derecho exclusivo de distribución y el derecho unilateral de revocación de uso.
 La intención estratégica de este licenciamiento cerrado temporal es permitir que profesionales, ingenieros de software y aliados estratégicos del sector tecnológico auditen y prueben el rendimiento del ecosistema Redentor, abriendo canales directos de comunicación y networking con el autor para futuras colaboraciones comerciales, optimizaciones de código o transiciones planificadas hacia licencias de código abierto (Open Source).
 
+Contacto:
+Facebook:https://www.facebook.com/jose04.vargas
